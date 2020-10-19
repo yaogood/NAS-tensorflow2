@@ -5,16 +5,15 @@ Basic implementation of  [Neural Architecture Search with Reinforcement Learning
 
 
 
-
-### Requirements
-- Tensorflow-gpu >= 2.0
-
-
-
-
 | Fold             | Description                                                  |
 | ---------------- | ------------------------------------------------------------ |
 | NAS              | Implementation of 'neural architecture search'               |
 | NAS_local_search | Implementation of 'neural architecture search' as well as local search |
 | NAO              | Implementation of 'neural architecture optimization'         |
+
+
+
+### Requirements
+- Tensorflow-gpu >= 2.0
+
 
