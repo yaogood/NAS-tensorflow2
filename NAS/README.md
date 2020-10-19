@@ -5,7 +5,7 @@
 | dense_env.py         | `DenseEnv` represent the environment of fully-connected network |
 | global_parameters.py | Some hyper-parameters for the whole model                    |
 | load_data.py         | Loading datasets                                             |
-| cnn_env.py           | Containing the environment of fully-connected network        |
+| cnn_env.py           | Containing the environment of CNN        |
 | search_space.py      | Defining the Search Space                                    |
 | train.py             | Training                                                     |
 | utils.py             | Some help functions                                          |
