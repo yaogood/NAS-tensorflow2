@@ -14,4 +14,4 @@
 
 ### Acknowledgements
 
-Code inspired by [titu1994/neural-architecture-search](
+Code inspired by [titu1994/neural-architecture-search](https://github.com/titu1994/neural-architecture-search)
