@@ -4,8 +4,11 @@
 Basic implementation of  [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578) and [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012)  and [Neural Architecture Optimization](https://arxiv.org/abs/1808.07233).
 
 
+
+
 ### Requirements
 - Tensorflow-gpu >= 2.0
+
 
 
 
